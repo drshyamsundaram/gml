@@ -1,3 +1,14 @@
+# What are graphs ?
+Graphs are everwhere ! Examples of graphs include social networks (Twitter, Linkedin, facebook, etc.). In additionb researcxh articles (and papers with citations), molecules are also examples. Graphs also plahy a crirtical role in software execution platforns (like DAGs, TensorFlow execution, etc.). At the most basic level, a graph (G) is made up of nodes (N) connected by edges (E). The edge can be directed (direction and weights) as well undirected. This structure is powerful to represent many scenarios (also can be called as a graph schema).
+
+A next level can be what we call as knowledge graphs (diverse domain specific such as encyclopedias, any website with hyperlinks), programming repositories like pypi.
+
+
+# What is Graph Machine Learning ?
+Once you have a graph schema and data loaded into its structure you can perform a number of computations on it. At the most basic level is the concept of traversal across the graph (and using the interconnection/hops), clusters, etc.). In more advanced cases we can explore graph neural network kinds of capability.
+
+(Introduction)[https://huggingface.co/blog/intro-graphml]
+
 # GNN | Graph Neural Network
 ## What are GNN ?
 GNNs can be used to answer questions about multiple characteristics of these graphs. By working at the graph level, we try to predict characteristics of the entire graph. We can identify the presence of certain “shapes,” like circles in a graph that might represent sub-molecules or perhaps close social relationships. 
