@@ -1,18 +1,18 @@
 # Open Graph Medium to Large Scale Problem Statement
 ## Problem Statement
 Graph data provides a powerful way to represent and identify linkages. How can the representation (graph data model) with graph machine learning assist in taking data science applications to enhanced levels is a critical capability. The problem statement explores how graph representation coupled with graph query (insights) coupled with graph machine learning (like GNNs. Etc.) can provide next generation viable business capability. The solution and approach also need to address optimal/viable architectures to work on optimal memory and overall commodity-based hardware (servers). This problem will explore an end to end nature on building scalable graph-based capability with a technical frame using big data, data pre and post processing, data models for Graph/ML/analytics consumption.
-The requirement is to explore these aspects, we use the (SNAP product co-purchasing networks)[https://snap.stanford.edu/data/#amazon]. 
+The requirement is to explore these aspects, we use the [SNAP product co-purchasing networks](https://snap.stanford.edu/data/#amazon). 
 - The key task is to (first) identify a good problem to solve that will address some potential business use case (you need to identify this). 
 - This solution (second) needs to include a graph-based approach with the steps identified in the submission/evaluation section. 
 - The final (third)solution must showcase an integration to a mobile app/ web front end (with API integration). 
-The data is based on the (open data based on a large ecommerce platform)[https://snap.stanford.edu/data/#amazon]
+The data is based on the [open data based on a large ecommerce platform](https://snap.stanford.edu/data/#amazon)
 
 ## Technical Stack (Mandatory to follow):
 | | |
 | --- | --- |
-| [Data Set Details Product co-purchasing networks - SNAP](https://snap.stanford.edu/data/#amazon) | [Code IDE & Notebook](https://colab.research.google.com/)|
-| [Data Set: Meta Data)[https://snap.stanford.edu/data/amazon-meta.html]|Languages & framework - Core: Python / Processing: Pyspark, Spark  3.4.0+2.4+ |
-|  | (Graph DB Opion 1)[https://janusgraph.org/](Graph DB Opion 2)[https://blazegraph.com/) |
+| [Dataset Details Product co-purchasing networks SNAP](https://snap.stanford.edu/data/#amazon) | [Code IDE & Notebook](https://colab.research.google.com/)|
+| [Dataset: Meta Data)[https://snap.stanford.edu/data/amazon-meta.html]|Languages & framework - Core: Python / Processing: Pyspark, Spark  3.4.0+2.4+ |
+|  | [Graph DB Opion 1](https://janusgraph.org/)[Graph DB Opion 2](https://blazegraph.com/) |
 | [Visualisation Tools](https://gephi.org/users/download/) : Other open source can be suggested.|[Graph Query Gremlin Interface](https://pypi.org/project/gremlinpython/) [RDF Graph Query Sparkl](https://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)|
 
 
