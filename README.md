@@ -3,6 +3,17 @@ Graphs are everwhere ! Examples of graphs include social networks (Twitter, Link
 
 A next level can be what we call as knowledge graphs (diverse domain specific such as encyclopedias, any website with hyperlinks), programming repositories like pypi.
 
+# What are graph databases ?
+A graph database is defined as a specialized, single-purpose platform for creating and manipulating graphs. Graphs contain nodes, edges, and properties, all of which are used to represent and store data in a way that relational databases are not equipped to do. While many adopt the graph structure as a document database (NOSQL), there are many that are native graph databases (open and commercial).
+[Graph DBMS option](https://db-engines.com/en/ranking/graph+dbms) provides a comprehensive list of these. 
+
+# What is a graph computing framework ?
+
+A [graph processing framework](https://link.springer.com/referenceworkentry/10.1007/978-3-319-77525-8_283) (GPF) is a set of tools oriented to process graphs. Graph vertices are used to model data and edges model relationships between vertices. Typically, a GPF includes an input data stream, an execution model, and an application programming interface (API) having a set of functions implementing specific graph algorithms. In addition, some GPFs provide support for vertices and edges annotated with arbitrary properties of any kind and number.
+
+Graphs are ideally used for scale modeling of large systems/domains and their relationships. These are used extensively in application domains such as fraud/detection, biological network analysis, link and social network analysis (SNA). While the graph data structure is very intutive and easy to understand, requires deep domain models they can tend to be large, complex, and dynamic. GPFs address the ability to address three challenges of data growth: volume, velocity, and variety. They also provide a standard framework that enable standard API-able aproaches. 
+
+One of the most popular GPFs is [Apache TinkerPop™](https://tinkerpop.apache.org/) which is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP). [Gremlin](https://tinkerpop.apache.org/gremlin.html) is the graph traversal language of Apache TinkerPop. Gremlin is a functional, data-flow language that enables users to succinctly express complex traversals on (or queries of) their application's property graph. Every Gremlin traversal is composed of a sequence of (potentially nested) steps.
 
 # What is Graph Machine Learning ?
 Once you have a graph schema and data loaded into its structure you can perform a number of computations on it. At the most basic level is the concept of traversal across the graph (and using the interconnection/hops), clusters, etc.). In more advanced cases we can explore graph neural network kinds of capability.
