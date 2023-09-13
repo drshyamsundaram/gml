@@ -10,10 +10,10 @@ The data is based on the [open data based on a large ecommerce platform](https:/
 ## Technical Stack (Mandatory to follow):
 | | |
 | --- | --- |
-| [Dataset Details Product co-purchasing networks SNAP](https://snap.stanford.edu/data/#amazon) | [Code IDE & Notebook](https://colab.research.google.com/)|
+| Dataset Details Product co-purchasing networks SNAP [link](https://snap.stanford.edu/data/#amazon) | Code IDE & Notebook[link](https://colab.research.google.com/)|
 | [Dataset: Meta Data)[https://snap.stanford.edu/data/amazon-meta.html]|Languages & framework - Core: Python / Processing: Pyspark, Spark  3.4.0+2.4+ |
-|  | [Graph DB Opion 1](https://janusgraph.org/)[Graph DB Opion 2](https://blazegraph.com/) |
-| [Visualisation Tools](https://gephi.org/users/download/) : Other open source can be suggested.|[Graph Query Gremlin Interface](https://pypi.org/project/gremlinpython/) [RDF Graph Query Sparkl](https://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)|
+|  | Graph DB Opion 1[link](https://janusgraph.org/) Graph DB Opion 2[link](https://blazegraph.com/) |
+| Visualisation Tools[link](https://gephi.org/users/download/) : Other open source can be suggested.|[Graph Query Gremlin Interface](https://pypi.org/project/gremlinpython/) [RDF Graph Query Sparkl](https://rdflib.readthedocs.io/en/stable/intro_to_sparql.html)|
 
 
 ## Outcomes Expected
