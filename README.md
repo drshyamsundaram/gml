@@ -7,7 +7,7 @@ A next level can be what we call as knowledge graphs (diverse domain specific su
 # What is Graph Machine Learning ?
 Once you have a graph schema and data loaded into its structure you can perform a number of computations on it. At the most basic level is the concept of traversal across the graph (and using the interconnection/hops), clusters, etc.). In more advanced cases we can explore graph neural network kinds of capability.
 
-(Introduction)[https://huggingface.co/blog/intro-graphml]
+[Introduction](https://huggingface.co/blog/intro-graphml)
 
 # GNN | Graph Neural Network
 ## What are GNN ?
