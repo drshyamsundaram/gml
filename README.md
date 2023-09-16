@@ -1,5 +1,5 @@
 # What are graphs ?
-Graphs are everwhere ! Examples of graphs include social networks (Twitter, Linkedin, facebook, etc.). In additionb researcxh articles (and papers with citations), molecules are also examples. Graphs also plahy a crirtical role in software execution platforns (like DAGs, TensorFlow execution, etc.). At the most basic level, a graph (G) is made up of nodes (N) connected by edges (E). The edge can be directed (direction and weights) as well undirected. This structure is powerful to represent many scenarios (also can be called as a graph schema).
+Graphs are everwhere! Examples of graphs include social networks (Twitter, Linkedin, facebook, etc.). In addition, research articles (and papers with citations), molecules are also examples. Graphs also play a crirtical role in software execution platforns (like DAGs, TensorFlow execution, etc.). At the most basic level, a graph (G) comprises of nodes (N) connected by edges (E). The edge can be directed (direction and weights) as well undirected. This structure is powerful to represent many scenarios (also can be called as a graph schema).
 
 A next level can be what we call as knowledge graphs (diverse domain specific such as encyclopedias, any website with hyperlinks), programming repositories like pypi.
 
